@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Interior Consultant</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,9 +8,6 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
     <span> | </span>
     <a href="https://{your-url-to-the-solution}">
       Solution
@@ -36,22 +33,21 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./Img/Devchallenge2.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- This one have challenge me a lot, i was looking for something to challenge my skill this one nail me in. 
+- A huge improvement i have made in this challenge is on flex display i can say  flex display is awesome,before flex i was a fan of grid display but flex make me prove a say that says "Explore more and look at new angles"
+- If  you want to try this one i recomend you and check for [Flex](https://www.w3schools.com/cssref/css3_pr_flex.asp) [Media query](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) and  [some simple Js modal](https://www.w3schools.com/js/js_htmldom_html.asp)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- Html
+- Css3
+- Javascript
+
 
 ## Features
 
@@ -69,6 +65,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [A simple portfolio](https://pascal488.github.io/)
+- GitHub [Pascal488](https://github.com/Pascal488)
+- Instgram [Follow me on IG](https://www.instagram.com/paschal_maximillian/)

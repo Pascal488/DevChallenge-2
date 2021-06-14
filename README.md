@@ -38,7 +38,7 @@
 
 - This one have challenge me a lot, i was looking for something to challenge my skill this one nail me in. 
 - A huge improvement i have made in this challenge is on flex display i can say  flex display is awesome,before flex i was a fan of grid display but flex make me prove a say that says "Explore more and look at new angles"
-- If  you want to try this one i recomend you and check for [Flex](https://www.w3schools.com/cssref/css3_pr_flex.asp) [Media query](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) and  [some simple Js modal](https://www.w3schools.com/js/js_htmldom_html.asp)
+- If  you want to try this one i recomend go  and check for [Flex](https://www.w3schools.com/cssref/css3_pr_flex.asp) [Media query](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) and  [some simple Js modal](https://www.w3schools.com/js/js_htmldom_html.asp)
 
 ### Built With
 
